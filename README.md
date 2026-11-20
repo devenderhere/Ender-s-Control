@@ -24,7 +24,7 @@ The dashboard only ever listens on `127.0.0.1`.
 Requires Node.js 18 or newer.
 
 ```bash
-git clone <your-repo-url> ender-control
+git clone https://github.com/notadarsh99/Ender-s-Control.git ender-control
 cd ender-control
 npm install
 npm start
